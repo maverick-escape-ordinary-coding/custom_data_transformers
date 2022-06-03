@@ -4,4 +4,4 @@ Defensive programming principles and guard against type of data entering the obj
 
 StandardScalar, MinMaxScalar
 
-Test against Bernaulli, Logistic Regression, Linear Regression
+Against Bernaulli, Logistic Regression, Linear Regression
